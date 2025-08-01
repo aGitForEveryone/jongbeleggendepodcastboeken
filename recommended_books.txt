@@ -1,0 +1,126 @@
+First picks:
+The Intelligent Investor van Benjamin Graham
+Rich, Wiser, Happier van William Green
+One Up on Wall Street van Peter Lynch
+Zero to one van Peter Thiel
+Nothing but net van Mark Mahaney
+The Psychology of Money van Morgan Housel
+Learn to Earn van Peter Lynch (ook voor jongeren/tieners)
+Outsiders van William N. Thorndike Jr.
+Beating the Street van Peter Lynch
+Rich Dad Poor Dad van Robert Kiyosaki
+Atomic Habits van James Clear
+Investing for Growth van Terry Smith
+100-baggers van Chris Mayer
+Het beleggersbrein van Luc Kroeze
+De Kaviaarformule van Luc Kroeze
+Ontdek de groeikansen van AI van Gieling Remy Lessen van Picnic, Salesforce, ParkBee en andere succesformules
+Black Swan - The Impact of the Highly Improbable van Nassim Nicholas Taleb
+Die with Zero van Bill Perkins
+Intentioneel leven van Ernst-Jan Pfauth
+Mastering the Market Cycle van Howard Marks
+The Ai-first Company van Ash Fontana How to Compete and Win With Artificial Intelligence
+Creativity, Inc. van Ed Catmull
+Common stocks and uncommon profits van Philip A. Fisher
+
+----------------------------------------------
+Set 2 (meer geadvanceerd/specifiek)
+Antifragile - Things That Gain from Disorder van Nassim Nicholas Taleb
+Skin in the game - verborgen asymmetrieën in het dagelijks leven van Nassim Nicholas Taleb
+Fooled by Randomness - The Hidden Role of Chance in Life and in the Markets van Nassim Nicholas Taleb
+Geldmoord van Edin Mujagic
+The Budget Deficit van Stephanie Kelton
+Mr Five Per Cent van Dr. Jonathan Conlin
+Rich Dad's the Cashflow Quadrant van Robert Kiyosaki
+Coffee can investing van Saurabh Mukherjea
+The little book that beats the market van Joel Greenblatt
+You can be a stock market genius van Joel Greenblatt
+The Big Secret for the Small Investor van Joel Greenblatt
+
+Boeken van Aswath Damodaran:
+Narrative and Numbers: The Value of Stories in Business
+The little book of valuation: How to Value a Company, Pick a Stock and Profit
+The Dark Side of Valuation: Valuing Young, Distressed, and Complex Businesses
+
+Verdubbel je geld in 5 jaar van Sam Hollanders
+Principles van Ray Dalio
+Je leeftijd als goudmijn van Martien van Winden
+Safe Haven van Mark Spitznagel
+Succesvol investeren in startups van Jeroen Bertrams
+Start-up: van idee tot exit van Jeroen Bertrams
+Turning the Flywheel van Jim Collins
+Good to Great van Jim Collins
+The Obstacle is the Way van Ryan Holiday
+The almanack of naval ravikant van Eric Jorgenson
+Geld stuurt de wereld, jij bepaalt de koers van Anne-Marie Rakhorst
+Hoe ik toch huisjesmelker werd van Hans de Geus
+Aandelen selecteren als een Pro van Rowan Nijboer
+Winning Decisions van J. Edward Russo en Paul J. H. Schoemaker
+Morele dillema's in de boardroom van Mijntje Lückerath-Rovers
+7 Powers van Hamilton Helmer
+Nick and Zak's adventures in capitalism van Nick Sleep en Qais Zakaria
+The luxury strategy van Jean-Noël Kapferer en Vincent Bastien
+
+----------------------------------------------
+Over Personen:
+Poor Charlie's Almanack van Peter D. Kaufman
+The Tao of Charlie Munger van David Clark
+Titan van Ron Chernow (Biografie van John D. Rockefeller)
+Sam Walton: Made in America van Sam Walton (autobiografie van de oprichter van Walmart)
+De rit van mijn leven van Robert Iger (autobiografie van de CEO van Disney)
+Shoe dog van Phil Knight (autobiografie van de oprichter van Nike)
+
+Boeken over/gerelateerd aan Steve Jobs:
+Becoming Steve Jobs van Brent Schlender
+Clear Thinking van Shane Parrish
+Steve Jobs: The Exclusive Biography van Walter Isaacson
+Masterclass Steve Jobs van Carmine Gallo
+Small Fry van Lisa Brennan-Jobs (meer persoonlijk leven van Steve Jobs)
+Make Something Wonderful van Steve Jobs
+
+Boeken over / van Warren Buffett:
+Leer beleggen als Warren Buffett door Hendrik Oude Nijhuis.
+The Snowball door Alice Shroeder.
+Buffettology door Mary Buffett.
+Buffett door Roger Lowenstein.
+Warren Buffett's Ground Rules door Jeremy Miller.
+
+----------------------------------------------
+Voorlopers (misschien interessant om later te lezen)
+100 to 1 van Thomas Phelps
+Accounting for Growth van Terry Smith
+Security Analysis van Benjamin Graham en David Dodd
+
+----------------------------------------------
+
+
+Boeken van Michael J. Mauboussin:
+The Success Equation
+Think Twice
+Expectations Investing
+Papers van hem:
+Return on Invested Capital - How to Calculate ROIC and Handle Common Issues.
+What Does a Price-Earnings Multiple Mean? - An Analytical Bridge between P/Es and SolidEconomics
+ROIC and the Investment Process - ROICs, How They Change, and Shareholder Returns.
+Calculating Return on Invested Capital - How to Determine ROIC and Address Common Issues.
+Everything Is a DCF Model - A Mantra for Valuing Cash-Generating Assets.
+
+
+Boeken over AI:
+Ontdek de groeikansen van AI van Gieling Remy Lessen van Picnic, Salesforce, ParkBee en andere succesformules
+AI Superpowers van Kai-Fu Lee China, Silicon Valley, and the New World Order
+The Age of A.I. van Kissinger, Henry A & Eric Schmidt And Our Human Future
+The Ai-first Company van Ash Fontana How to Compete and Win With Artificial Intelligence
+Futureproof van Kevin Roose 9 Rules for Humans in the Age of Automation
+Life 3.0 van Max Tegmark Being Human in the Age of Artificial Intelligence
+Work van James Suzman A Deep History, from the Stone Age to the Age of Robots
+Genius Makers van Cade Metz The Mavericks Who Brought AI to Google, Facebook, and the World
+Driven van Alex Davies The Race to Create the Autonomous Car
+Jouw baan gaat verdwijnen en dit is de oplossing van Andrew Yang
+
+Boeken over derivaten:
+Voor private beleggers: Trade Options with an Edge; Dr. Russel Richards
+De bijbel: Options, Futures, and Other Derivatives; John C. Hull.
+Voor market makers: Option Trading: Pricing and Volatility Strategy and Techniques; Euan Sinclair
+Voor de wiskundigen: Stochastic Calculus for Finance I+II; Steven E. Shreve
+Over HFT: All about High-Frequency Trading; Michael Durbin
