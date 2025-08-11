@@ -3,6 +3,7 @@ The Intelligent Investor van Benjamin Graham
 Rich, Wiser, Happier van William Green
 One Up on Wall Street van Peter Lynch
 Zero to one van Peter Thiel
+The richest man in Babylon van George Clason
 Nothing but net van Mark Mahaney
 The Psychology of Money van Morgan Housel
 Learn to Earn van Peter Lynch (ook voor jongeren/tieners)
@@ -123,4 +124,5 @@ Voor private beleggers: Trade Options with an Edge; Dr. Russel Richards
 De bijbel: Options, Futures, and Other Derivatives; John C. Hull.
 Voor market makers: Option Trading: Pricing and Volatility Strategy and Techniques; Euan Sinclair
 Voor de wiskundigen: Stochastic Calculus for Finance I+II; Steven E. Shreve
+
 Over HFT: All about High-Frequency Trading; Michael Durbin
